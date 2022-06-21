@@ -11,7 +11,7 @@
   <img align="center" alt="Rick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rick-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/916693108551471145/988850758059438130/killua.jpg">
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/89c03db94a1401884b435eaec253266a.gif" align="right" width="150" height="150" style="border-radius:50px; alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
  
 </div>
   
@@ -22,6 +22,6 @@
   <a href = "mailto:rick01.carriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardo-carriel-de-oliveira-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/RicardoCarriel)
  
 </div>
