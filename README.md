@@ -1,7 +1,7 @@
 ## Ola!! Eu sou o Ricardo Carriel.
 
 - 👀 I’m interested in C# and Machine Learning
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning C# and DotNET
 <div align="center">
   <a href="https://github.com/RicardoCarriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoCarriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
