@@ -1,6 +1,6 @@
 ## Ola!! Eu sou o Ricardo Carriel.
 
-- 👀 I’m interested in C# and Machine Learning
+- 👀 I’m interested in C# and Web Development
 - 🌱 I’m currently learning C# and DotNET
 <div align="center">
   <a href="https://github.com/RicardoCarriel">
