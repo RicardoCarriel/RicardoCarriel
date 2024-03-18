@@ -1,20 +1,19 @@
 ## Ola!! Eu sou o Ricardo Carriel.
 
-- 👀 I’m interested in C# and Web Development
-- 🌱 I’m currently learning C# and DotNET
+- 👀 I’m interested in FullStack Development
+- 🌱 I’m currently learning .NET and React
 <div align="center">
   <a href="https://github.com/RicardoCarriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoCarriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoCarriel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rick-CS"height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rick-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rick-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rick-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rick-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/89c03db94a1401884b435eaec253266a.gif" align="right" width="150" height="150" style="border-radius:50px; alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
- 
+  <img align="center" alt="Ri-CS"height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ri-.NET" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Ri-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ri-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ri-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ri-React" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
   
   ##
