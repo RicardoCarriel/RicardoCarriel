@@ -1,13 +1,13 @@
 ## Ola!! Eu sou o Ricardo Carriel.
 
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning .NET and React
+- 🌱 I’m currently learning Lua and C++
 <div align="center">
   <a href="https://github.com/RicardoCarriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoCarriel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ri-CS"height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ri-CS"height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/lua-original.svg">
   <img align="center" alt="Ri-.NET" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Ri-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ri-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
