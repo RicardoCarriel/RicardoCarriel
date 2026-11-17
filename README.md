@@ -20,8 +20,8 @@ so what you see here is a small slice: open-source contributions and developer t
 
 ## 🛠️ Stack
 
-**Back-end:** Lua (arken) · Python · C# / .NET · Node.js<br>
-**Front-end:** TypeScript · JavaScript · React · Tailwind CSS<br>
+**Back-end:** Lua (arken) · Ruby · Python · C# / .NET · Node.js<br>
+**Front-end:** JavaScript · Tailwind CSS<br>
 **Data & infra:** PostgreSQL · SQL Server · Docker · RabbitMQ · Linux · Git
 
 ## 📚 Studies
