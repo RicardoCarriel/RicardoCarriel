@@ -1,26 +1,51 @@
-## Ola!! Eu sou o Ricardo Carriel.
+# Ricardo Carriel
 
-- 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning Lua and C++
-<div align="center">
-  <a href="https://github.com/RicardoCarriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoCarriel&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ri-CS"height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
-  <img align="center" alt="Ri-.NET" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Ri-.NET" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg">
-  <img align="center" alt="Ri-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ri-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ri-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ri-React" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-</div>
-  
-  ##
-  
- <div> 
-    <a href="https://www.linkedin.com/in/ricardo-carriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.instagram.com/rcarriell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:rick01.carriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-</div>
+**Full-stack developer** · Lua · Python · TypeScript · PostgreSQL · Brazil 🇧🇷
+
+I build production web systems for the healthcare sector — from database schema and business rules
+to APIs, integrations and the UI. Most of my day-to-day work lives in **private repositories**,
+so what you see here is a small slice: open-source contributions and developer tooling.
+
+<p>
+  <a href="https://www.linkedin.com/in/ricardo-carriel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rick01.carriel@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+## 🔧 Open source
+
+| Project | What it is |
+| --- | --- |
+| [**arken**](https://github.com/RicardoCarriel/arken) | Contributor to **arken**, a C++/Lua framework for web applications (ActiveRecord ORM, HTTP server, test & coverage tooling). |
+| [**arken-activerecord-vsc**](https://github.com/RicardoCarriel/arken-activerecord-vsc) | VS Code extension that adds IntelliSense to arken projects: live indexing of models and DB schemas, autocomplete for columns, relations and methods, go-to-definition and diagnostics. |
+
+## 🛠️ Stack
+
+**Back-end:** Lua (arken) · Python · C# / .NET · Node.js
+**Front-end:** TypeScript · JavaScript · React · Tailwind CSS
+**Data & infra:** PostgreSQL · SQL Server · Docker · RabbitMQ · Linux · Git
+
+## 📚 Studies
+
+[NerdStoreEnterprise](https://github.com/RicardoCarriel/NerdStoreEnterprise) (.NET microservices, message bus, JWT) ·
+[MinhaAPICompleta](https://github.com/RicardoCarriel/MinhaAPICompleta) (ASP.NET Core REST API, Identity, versioning)
+
+---
+
+<details>
+<summary>🇧🇷 <b>Em português</b></summary>
+
+<br>
+
+Sou **desenvolvedor full-stack** e trabalho com sistemas web em produção para a área da saúde —
+do schema do banco e das regras de negócio até APIs, integrações e interface.
+A maior parte do meu trabalho está em **repositórios privados**; aqui ficam minhas contribuições
+open source e ferramentas de desenvolvimento.
+
+- **arken** — contribuidor do framework C++/Lua para aplicações web (ORM ActiveRecord, servidor HTTP, testes e cobertura).
+- **arken-activerecord-vsc** — extensão de VS Code com IntelliSense para projetos arken (models, schemas, relações e diagnósticos).
+
+</details>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/RicardoCarriel/RicardoCarriel/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%">
