@@ -1,6 +1,6 @@
 # Ricardo Carriel
 
-**Full-stack developer** · Lua · Python · TypeScript · PostgreSQL · Brazil 🇧🇷
+**Full-stack developer** · Lua · Python · PostgreSQL · Brazil 🇧🇷
 
 I build production web systems for the healthcare sector — from database schema and business rules
 to APIs, integrations and the UI. Most of my day-to-day work lives in **private repositories**,
@@ -20,14 +20,9 @@ so what you see here is a small slice: open-source contributions and developer t
 
 ## 🛠️ Stack
 
-**Back-end:** Lua (arken) · Ruby · Python · C# / .NET · Node.js<br>
+**Back-end:** Lua (arken) · Ruby · Python · Node.js<br>
 **Front-end:** JavaScript · Tailwind CSS<br>
-**Data & infra:** PostgreSQL · SQL Server · Docker · RabbitMQ · Linux · Git
-
-## 📚 Studies
-
-[NerdStoreEnterprise](https://github.com/RicardoCarriel/NerdStoreEnterprise) (.NET microservices, message bus, JWT) ·
-[MinhaAPICompleta](https://github.com/RicardoCarriel/MinhaAPICompleta) (ASP.NET Core REST API, Identity, versioning)
+**Data & infra:** PostgreSQL · Docker · Linux · Git
 
 ---
 
